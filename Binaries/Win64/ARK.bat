@@ -1,1 +1,0 @@
-start ShooterGameServer.exe "TheIsland?Port=27015?QueryPort=27017?SessionName=PINOLAND?MaxPlayers=127?listen?ServerPassword=jorge?ServerAdminPassword=jorgeadmin" -nosteamclient -game -server -log
