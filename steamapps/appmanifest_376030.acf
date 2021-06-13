@@ -1,0 +1,37 @@
+"AppState"
+{
+	"appid"		"376030"
+	"Universe"		"1"
+	"LauncherPath"		"D:\\steamlibrary\\steamapps\\common\\ark\\shootergame\\steamcmd\\steamcmd.exe"
+	"name"		"ARK: Survival Evolved Dedicated Server"
+	"StateFlags"		"4"
+	"installdir"		"ARK Survival Evolved Dedicated Server"
+	"LastUpdated"		"1623278658"
+	"UpdateResult"		"0"
+	"SizeOnDisk"		"16658399871"
+	"buildid"		"6829683"
+	"LastOwner"		"76561200793261083"
+	"BytesToDownload"		"33650288"
+	"BytesDownloaded"		"33650288"
+	"BytesToStage"		"2325275379"
+	"BytesStaged"		"2325275379"
+	"AutoUpdateBehavior"		"0"
+	"AllowOtherDownloadsWhileRunning"		"0"
+	"ScheduledAutoUpdate"		"0"
+	"InstalledDepots"
+	{
+		"1004"
+		{
+			"manifest"		"8183072803014619222"
+			"size"		"40080472"
+		}
+		"376031"
+		{
+			"manifest"		"4653801766264301797"
+			"size"		"16618319399"
+		}
+	}
+	"UserConfig"
+	{
+	}
+}
